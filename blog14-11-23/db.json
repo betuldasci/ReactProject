@@ -1,0 +1,62 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "categoryId": 3,
+      "title": "The Impact of Artificial Intelligence on Society",
+      "content": "Artificial Intelligence (AI) has rapidly evolved in recent years, impacting various aspects of society. From automation in industries to personalized recommendation systems, AI has become an integral part of our daily lives.",
+      "image": "images/1.jpg"
+    },
+    {
+      "id": 2,
+      "categoryId": 1,
+      "title": "Exploring Exotic Destinations: A Journey Through Southeast Asia",
+      "content": "Embark on a mesmerizing journey through the enchanting landscapes of Southeast Asia. From the bustling streets of Bangkok to the serene beaches of Bali, this travel adventure promises unforgettable experiences.",
+      "image": "images/2.jpg"
+    },
+    {
+      "id": 3,
+      "categoryId": 2,
+      "title": "The Science Behind Quantum Computing",
+      "content": "Quantum computing, with its potential to solve complex problems at unprecedented speeds, is a fascinating field of study. This blog post delves into the principles of quantum mechanics that underlie this revolutionary technology.",
+      "image": "images/3.jpg"
+    },
+    {
+      "id": 4,
+      "categoryId": 4,
+      "title": "Finding Balance in a Hectic Life: Tips for a Healthy Work-Life Balance",
+      "content": "In the fast-paced world we live in, maintaining a healthy work-life balance is crucial for overall well-being. Discover practical tips to achieve balance and enhance both professional and personal aspects of your life.",
+      "image": "images/4.jpg"
+    },
+    {
+      "id": 5,
+      "categoryId": 5,
+      "title": "Culinary Delights: Exploring Authentic Flavors of Mediterranean Cuisine",
+      "content": "Embark on a culinary journey through the Mediterranean, savoring the rich and diverse flavors of Greek, Italian, and Spanish cuisines. From olive oil-infused dishes to mouthwatering seafood, experience the essence of the Mediterranean kitchen.",
+      "image": "images/5.jpg"
+    }
+  ],
+
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "Technology"
+    },
+    {
+      "id": 2,
+      "categoryName": "Travel"
+    },
+    {
+      "id": 3,
+      "categoryName": "Science"
+    },
+    {
+      "id": 4,
+      "categoryName": "Life"
+    },
+    {
+      "id": 5,
+      "categoryName": "Food"
+    }
+  ]
+}
